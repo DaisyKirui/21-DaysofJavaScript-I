@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(68, 81, 81);
+    opacity: 100%;
+}
+
+.female {
+    color: blue;
+}
+
+#adrian {
+    font-size: xx-large;
+}
+
+#joseph {
+    color: yellow;
+    font-style: italic;
+}
+
+a {
+    color: greenyellow
+}
+
+[href]:hover {
+    color: white;
+}
+
+li:hover {
+    color:white;
+}
