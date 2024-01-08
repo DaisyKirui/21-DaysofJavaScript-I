@@ -1,6 +1,7 @@
-const doSum = (num1, num2) => {
-    let sum = num1 + num2;
-    return sum
-}
+//if statements
 
-console.log(doSum(2,7))
+let name = 'Daisy';
+
+if (name === 'Daisy'){
+    console.log('This is Daisy')
+}
