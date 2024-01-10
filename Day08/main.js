@@ -10,11 +10,6 @@ $(document).ready(function (){
     } else {
         $('#answer text').text("'" + word + " 'is not a palindrome")
     }
-
-    const $forms = (form);
-    $forms.on('blur', event => {
-        $(event).hide()
-    })
  })
 })
 
